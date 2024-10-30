@@ -1,0 +1,23 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">ct_frequecny_vartion</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="ignore">prd_available_or_not_for_order_renew</custom-field>
+    <custom-field action="ignore">order_renew_discount_type_selector_prd_lvl</custom-field>
+    <custom-field action="ignore">order_renew_discount_amount_prd_lvl</custom-field>
+    <custom-field action="ignore">order_renew_time_prd_lvl</custom-field>
+    <custom-field action="ignore">order_renew_message_prd_lvl</custom-field>
+    <custom-field action="ignore">order_renew_discount_type</custom-field>
+    <custom-field action="ignore">ct_or_prd_available_or_not</custom-field>
+    <custom-field action="ignore">order_renew_discount_amount</custom-field>
+    <custom-field action="translate">order_renew_message</custom-field>
+    <custom-field action="ignore">ct_or_frequency</custom-field>
+    <custom-field action="ignore">ct_or_frequency_number</custom-field>
+    <custom-field action="ignore">ct_or_frequency_type</custom-field>
+    <custom-field action="ignore">ct_or_get_created_order</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="order_renew_gen_discount_msg"/>
+  </admin-texts>
+</wpml-config>
